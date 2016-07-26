@@ -1,0 +1,144 @@
+!SESSION 2016-07-25 20:40:35.146 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/paul/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/paul/Desktop/euler -product org.eclipse.epp.package.java.product -keyring /Users/paul/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-07-25 20:40:40.279
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2016-07-25 20:42:10.587
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-07-25 20:42:10.587
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.587
+!MESSAGE "Eclipse Git Team Provider - Task focused interface" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.587
+!MESSAGE "Java implementation of Git" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.587
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2016-07-25 20:42:10.587
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-07-25 20:42:10.587
+!MESSAGE Software being installed: Git Team Provider - auto-import for Eclipse >= 4.6 4.4.1.201607150455-r (org.eclipse.egit.ui.smartimport 4.4.1.201607150455-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-07-25 20:42:10.587
+!MESSAGE Missing requirement: Git Team Provider - auto-import for Eclipse >= 4.6 4.4.1.201607150455-r (org.eclipse.egit.ui.smartimport 4.4.1.201607150455-r) requires 'bundle org.eclipse.ui.ide 3.12.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2016-07-25 20:42:10.715
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-07-25 20:42:10.715
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.715
+!MESSAGE "Eclipse Git Team Provider - Task focused interface" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.715
+!MESSAGE "Java implementation of Git" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.715
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2016-07-25 20:42:10.715
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-07-25 20:42:10.715
+!MESSAGE Software being installed: Git Team Provider - auto-import for Eclipse >= 4.6 4.4.1.201607150455-r (org.eclipse.egit.ui.smartimport 4.4.1.201607150455-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-07-25 20:42:10.715
+!MESSAGE Missing requirement: Git Team Provider - auto-import for Eclipse >= 4.6 4.4.1.201607150455-r (org.eclipse.egit.ui.smartimport 4.4.1.201607150455-r) requires 'bundle org.eclipse.ui.ide 3.12.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2016-07-25 20:42:10.761
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-07-25 20:42:10.761
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.761
+!MESSAGE "Eclipse Git Team Provider - Task focused interface" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.761
+!MESSAGE "Java implementation of Git" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.761
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2016-07-25 20:42:10.761
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-07-25 20:42:10.761
+!MESSAGE Software being installed: Git Team Provider - auto-import for Eclipse >= 4.6 4.4.1.201607150455-r (org.eclipse.egit.ui.smartimport 4.4.1.201607150455-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-07-25 20:42:10.761
+!MESSAGE Missing requirement: Git Team Provider - auto-import for Eclipse >= 4.6 4.4.1.201607150455-r (org.eclipse.egit.ui.smartimport 4.4.1.201607150455-r) requires 'bundle org.eclipse.ui.ide 3.12.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2016-07-25 20:42:10.795
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-07-25 20:42:10.795
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.795
+!MESSAGE "Eclipse Git Team Provider - Task focused interface" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.795
+!MESSAGE "Java implementation of Git" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-07-25 20:42:10.795
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2016-07-25 20:42:10.795
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-07-25 20:42:10.795
+!MESSAGE Software being installed: Git Team Provider - auto-import for Eclipse >= 4.6 4.4.1.201607150455-r (org.eclipse.egit.ui.smartimport 4.4.1.201607150455-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-07-25 20:42:10.795
+!MESSAGE Missing requirement: Git Team Provider - auto-import for Eclipse >= 4.6 4.4.1.201607150455-r (org.eclipse.egit.ui.smartimport 4.4.1.201607150455-r) requires 'bundle org.eclipse.ui.ide 3.12.0' but it could not be found
+!SESSION 2016-07-25 20:47:52.749 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/paul/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data file:/Users/paul/Desktop/euler/ -product org.eclipse.epp.package.java.product -keyring /Users/paul/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-07-25 20:48:07.434
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2016-07-25 20:52:58.631 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/paul/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data file:/Users/paul/Desktop/euler/ -product org.eclipse.epp.package.java.product -keyring /Users/paul/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-07-25 20:53:08.824
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-07-25 21:04:32.837
+!MESSAGE fatal: Could not switch to '/Applications/Xcode.app/Contents/Developer/usr/etc/': No such file or directory
+
+!SESSION 2016-07-25 21:31:08.318 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.net 1 0 2016-07-25 21:31:55.128
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-07-25 21:32:01.514
+!MESSAGE fatal: Could not switch to '/Applications/Xcode.app/Contents/Developer/usr/etc/': No such file or directory
+
+!SESSION 2016-07-25 21:44:53.219 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/paul/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/paul/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2016-07-25 21:45:17.309
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-07-25 21:45:30.072
+!MESSAGE fatal: Could not switch to '/Applications/Xcode.app/Contents/Developer/usr/etc/': No such file or directory
+
+!SESSION 2016-07-26 19:00:04.724 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/paul/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/paul/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2016-07-26 19:04:01.882
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-07-26 19:04:10.053
+!MESSAGE fatal: Could not switch to '/Applications/Xcode.app/Contents/Developer/usr/etc/': No such file or directory
+
