@@ -1,0 +1,58 @@
+package project.euler;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class Problem24 {
+	public static ArrayList<String> finalPermutations;
+
+	public static void main(String[] args)
+	{
+		ArrayList<String> newPermutations = new ArrayList<String>();
+		createPermutations(newPermutations, 2);
+		
+		System.out.println(finalPermutations);
+	}
+	
+	public static void createPermutations(ArrayList<String> permutations, int limit)
+	{
+		ArrayList<String> newPermutations = new ArrayList<String>();
+		
+		if (permutations.isEmpty())
+		{
+			for (int i = 0 ; i<10; i++)
+			{
+				newPermutations.add( Integer.toString(i));
+			}
+		}
+		else
+		{		
+			String perm;
+			for (String num : permutations)
+			{
+
+				for (int i = 0 ; i<10; i++)
+				{
+					if ( num.contains(Integer.toString(i)) )
+					{
+
+						continue;
+					}
+					perm = num + Integer.toString(i) ;
+					System.out.println(num);
+					newPermutations.add(num);
+				}
+			}
+		}
+		if (newPermutations.get(0).length() == limit)
+		{
+			Collections.sort(newPermutations);
+			finalPermutations = newPermutations;
+			return;
+		}
+		
+		createPermutations(newPermutations, limit);
+
+	}
+
+}

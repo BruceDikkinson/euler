@@ -1,0 +1,37 @@
+package project.euler;
+
+/**
+ * Hello world!
+ *
+ */
+public class Problem27 
+{
+    public static void main( String[] args )
+    {
+    	
+        System.out.println( consecutivePrimes(1, 41));
+    }
+    
+    public static int consecutivePrimes(int a, int b)
+    {
+    	int count = 0;
+    	int n=0;
+    	int result;
+    	
+    	while(true)
+    	{
+    		result = n * n + a * n + b;
+    		if ( !GlobalFunctions.isPrime(result))
+    		{
+    			break;
+    		}
+    		else
+    		{
+    			count++;
+    		}	
+    		n++;
+    	}
+    	
+    	return count;
+    }
+}

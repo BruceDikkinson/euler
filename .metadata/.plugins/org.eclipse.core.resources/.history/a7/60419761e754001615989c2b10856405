@@ -1,0 +1,47 @@
+package project.euler;
+
+import java.util.ArrayList;
+
+public class Problem26 {
+	
+	
+	public static void main (String[] args)
+	{
+		System.out.println(checkReciprocalCycles(7));
+	}
+	
+	public static int checkReciprocalCycles(int d)
+	{
+		int count = 0;
+		int num = 10;
+		ArrayList<Integer> rest = new ArrayList<Integer>();
+		while(true)
+		{
+			if (num % d == 0)
+			{
+				break;
+			}
+			else
+			{
+				num = (num - ( (num/d) * d) ) *10 ;
+				System.out.println(num);
+				if (rest.contains(num))
+				{
+					count = rest.size()-rest.indexOf(num);
+					break;
+				}
+				
+				rest.add(num);
+				
+
+			}
+			
+
+			
+			
+		}
+		return count;
+		
+	}
+	
+}

@@ -103,3 +103,195 @@
 
 2016-07-26 19:04:10,050 [Thread-8] ERROR org.eclipse.jgit.util.FS - fatal: Could not switch to '/Applications/Xcode.app/Contents/Developer/usr/etc/': No such file or directory
 
+2016-07-27 19:11:56,475 [Thread-8] ERROR org.eclipse.jgit.util.FS - fatal: Could not switch to '/Applications/Xcode.app/Contents/Developer/usr/etc/': No such file or directory
+
+2016-07-27 19:13:27,572 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:13:27,573 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:13:27,576 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:13:27,576 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:13:36,732 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:13:36,732 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:13:36,734 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:13:36,734 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:24:40,386 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:24:40,387 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:24:40,389 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:24:40,389 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:25:10,742 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:25:10,742 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:25:10,744 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:25:10,744 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:29:03,554 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:29:03,555 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:29:03,557 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:29:03,557 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:29:35,319 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:29:35,319 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:29:35,321 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:29:35,321 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:29:43,301 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:29:43,302 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:29:43,304 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:29:43,304 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:30:14,469 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:30:14,469 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:30:14,472 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:30:14,472 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:30:24,006 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:30:24,006 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:30:24,008 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:30:24,008 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:31:39,447 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:31:39,447 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:31:39,449 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:31:39,449 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:31:59,743 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:31:59,743 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:31:59,744 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:31:59,744 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:32:20,483 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:32:20,483 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:32:20,485 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:32:20,485 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 19:59:48,714 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:59:48,715 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 19:59:48,716 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 19:59:48,716 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:05:10,870 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:05:10,873 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:05:10,875 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:05:10,876 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:05:23,880 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:05:23,880 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:05:23,883 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:05:23,883 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:12:51,698 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:12:51,698 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:12:51,701 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:12:51,701 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:12:59,661 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:12:59,661 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:12:59,662 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:12:59,662 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:13:14,623 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:13:14,624 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:13:14,625 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:13:14,625 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:13:18,988 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:13:18,989 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:13:18,994 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:13:18,995 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:13:26,370 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:13:26,370 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:13:26,372 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:13:26,372 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:13:32,349 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:13:32,349 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:13:32,351 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:13:32,351 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:18:41,490 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:18:41,490 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:18:41,492 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:18:41,492 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:19:07,217 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:19:07,217 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:19:07,219 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:19:07,219 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:23:42,028 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:23:42,028 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:23:42,030 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:23:42,030 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-27 20:24:21,120 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:24:21,120 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-27 20:24:21,121 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-27 20:24:21,121 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 16:43:40,658 [Thread-9] ERROR org.eclipse.jgit.util.FS - fatal: Could not switch to '/Applications/Xcode.app/Contents/Developer/usr/etc/': No such file or directory
+
+2016-07-28 16:47:03,822 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 16:47:03,823 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 16:47:03,826 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 16:47:03,826 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:15:19,772 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:15:19,772 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:15:19,777 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:15:19,777 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:17:24,306 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:17:24,306 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:17:24,308 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:17:24,308 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:27:40,740 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:27:40,741 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:27:40,743 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:27:40,743 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:27:46,324 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:27:46,324 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:27:46,326 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:27:46,326 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:30:01,720 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:30:01,721 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:30:01,722 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:30:01,723 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:31:01,924 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:31:01,924 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:31:01,925 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:31:01,925 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:31:24,219 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:31:24,219 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:31:24,225 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:31:24,225 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:32:01,238 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:32:01,238 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:32:01,239 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:32:01,240 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:32:36,433 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:32:36,433 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:32:36,434 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:32:36,435 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 17:36:16,986 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:36:16,986 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 17:36:16,987 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 17:36:16,988 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 18:58:53,340 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 18:58:53,340 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 18:58:53,341 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 18:58:53,341 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:11:10,128 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:11:10,129 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:11:10,131 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:11:10,131 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:11:16,606 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:11:16,606 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:11:16,611 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:11:16,611 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:12:29,187 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:12:29,188 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:12:29,190 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:12:29,190 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:14:02,031 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:14:02,031 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:14:02,033 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:14:02,034 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:14:23,773 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:14:23,773 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:14:23,774 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:14:23,774 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:14:40,444 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:14:40,444 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:14:40,445 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:14:40,446 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:14:55,337 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:14:55,337 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:14:55,338 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:14:55,339 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:15:22,790 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:15:22,791 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:15:22,796 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:15:22,796 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:19:03,415 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:19:03,416 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:19:03,417 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:19:03,418 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources
+2016-07-28 19:27:36,960 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:27:36,960 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/main/resources
+2016-07-28 19:27:36,961 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-28 19:27:36,961 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/paul/Desktop/euler/euler/src/test/resources

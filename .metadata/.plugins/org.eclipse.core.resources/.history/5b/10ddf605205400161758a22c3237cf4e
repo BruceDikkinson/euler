@@ -1,0 +1,37 @@
+package project.euler.problem25;
+
+import java.math.BigInteger;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	BigInteger a = new BigInteger("1");
+    	BigInteger b = new BigInteger("1");
+    	BigInteger tmp;
+
+    	int limit = 3;
+    	int index = 2;
+    	
+    	while (true)
+    	{
+    		i++;
+    		
+    		tmp = b;
+    		b = b.add(a);
+    		a = tmp; 
+
+    		
+    		if(b.toString().length() == limit)
+    		{
+    			break;
+    		}
+    	}
+    	
+        System.out.println( i );
+    }
+}

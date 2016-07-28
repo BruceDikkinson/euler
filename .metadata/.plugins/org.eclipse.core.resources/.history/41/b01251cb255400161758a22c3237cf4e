@@ -1,0 +1,26 @@
+package project.euler.problem27;
+
+/**
+ * Hello world!
+ *
+ */
+public class Problem27 
+{
+    public static void main( String[] args )
+    {
+    	
+        System.out.println( "Hello World!" );
+    }
+    
+    public int consecutivePrimes(int a, int b)
+    {
+    	int count = 0;
+    	int i=0;
+    	
+    	while(true)
+    	{
+    		
+    		
+    	}
+    }
+}

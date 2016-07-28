@@ -10,7 +10,7 @@
 	<section name="AvailableIUsPage">
 		<item value="1" key="AvailableViewType"/>
 		<item value="800" key="AvailableListSashWeight"/>
-		<item value="true" key="HideInstalledContent"/>
+		<item value="false" key="HideInstalledContent"/>
 		<item value="240" key="AvailableVersionColumnWidth"/>
 		<item value="true" key="ShowLatestVersionsOnly"/>
 		<item value="200" key="AvailableDetailsSashWeight"/>
